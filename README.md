@@ -10,6 +10,8 @@ Then apply it by switching to Japanese (or English) and back
 Congratulations! Now you have custom language in Primitier
 
 ## Localizations that are available
+Here is the list of localizations that exist for this mod
+- [Russian/Русский](https://github.com/Seva167/Primitier-Russian-Translation)
 
 ## Creating custom localizations
 [Creating custom localization](Docs/CustomLoc.md)
