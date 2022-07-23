@@ -4,8 +4,9 @@ We will have a starting point for our localization
 
 Open debug menu and press "Dump localization" button
 
-Dump will be saved to Documents\Primitier\Localizations\Dumps\\<locale code\>.json
-<sub>Example: C:\Users\User\Documents\Primitier\Localizations\Dumps\en.json</sub>
+Dump will be saved to `Documents\Primitier\Localizations\Dumps\\<locale code\>.json`
+
+<sub>Example: `C:\Users\User\Documents\Primitier\Localizations\Dumps\en.json`</sub>
 
 This will be you template for translating the game
 ### 2. Making localization
