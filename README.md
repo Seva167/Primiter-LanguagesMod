@@ -1,7 +1,7 @@
 # Primiter-LanguagesMod
 This mod adds ability to make custom translations.
 ## How to use
-Download translation that you like and place it in Documents/Primitier/Localizations if directory doesn't exist create it or run the mod
+Download translation that you like and place it in `Documents/Primitier/Localizations` if directory doesn't exist create it or run the mod
 
 A buttons will appear along with localization name. Choose yours by pressing Next and select it with Select button
 
